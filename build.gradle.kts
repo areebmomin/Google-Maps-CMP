@@ -7,3 +7,9 @@ plugins {
     alias(libs.plugins.compose.compiler) apply false
     alias(libs.plugins.kotlinMultiplatform) apply false
 }
+
+buildscript {
+    dependencies {
+        classpath(libs.maps.secrets.gradle.plugin)
+    }
+}
