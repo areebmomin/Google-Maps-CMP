@@ -7,3 +7,5 @@ A POC to demonstrate <a href="https://mapsplatform.google.com/" target="_blank">
 <b /><b />
 
 ### Screenshots:
+
+![Google Maps in CMP](https://github.com/areebmomin/Google-Maps-CMP/blob/main/assets/google_maps_cmp.gif)
